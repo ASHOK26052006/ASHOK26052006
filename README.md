@@ -47,4 +47,4 @@ A Full Stack cybersecurity web application that detects phishing, impersonation 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ASHOK26052006
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: (https://www.linkedin.com/in/ashok-periyasamy-050434395)
