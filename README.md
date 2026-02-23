@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashok
 
-<!--
-**ASHOK26052006/ASHOK26052006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🔐 Security-Focused Web Application Engineer  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I specialize in building secure, scalable full stack applications with strong backend logic and intelligent risk detection systems. I enjoy solving real-world cybersecurity and fraud detection problems.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Python (Flask)
+- Java
+- ASP.NET
+
+### Database
+- MySQL
+- SQLite
+
+---
+
+## 🛡 Featured Project
+
+### AI Message Threat Analyzer
+A Full Stack cybersecurity web application that detects phishing, impersonation scams, OTP fraud, malware links, and digital arrest scams using multilingual OCR and dynamic risk scoring.
+
+**Key Features:**
+- Multilingual OCR (English, Hindi, Tamil)
+- URL inspection & malware detection
+- Dynamic threat scoring (0–10 scale)
+- PDF & QR code analysis
+- Downloadable security reports
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ASHOK26052006
+- LinkedIn: (Add your LinkedIn link)
